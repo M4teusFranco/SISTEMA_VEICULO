@@ -1,5 +1,3 @@
-package ex1;
-
 class ex1 {
 
 	// Declaração da Classe Veículo
